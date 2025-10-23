@@ -67,8 +67,8 @@
     }
 
     .profile-photo{
-      width:94px;
-      height:94px;
+      width:110px;
+      height:110px;
       border-radius:14px;
       background:linear-gradient(135deg,var(--accent), #8f7bff);
       display:flex;
@@ -210,7 +210,9 @@
     <!-- SIDEBAR -->
     <aside class="sidebar" aria-label="Sidebar with contact & skills">
       <div style="display:flex;align-items:center;gap:12px">
-        <div class="profile-photo">CM</div>
+        <div class="profile-photo" >
+            <img src="c:\Users\chmoh\Downloads\profilepic.jpeg" alt="">
+        </div>
         <div style="flex:1">
           <div class="name">CHINTAKRINDI VENKATA MOHAN SAI</div>
           <div class="role">Aspiring Full-Stack Developer • Python Enthusiast</div>
